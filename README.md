@@ -11,7 +11,7 @@ Complete setup of a Windows Server 2022 virtual machine within my home lab using
 
 ---
 
-## 🇬🇧 English Version
+## English Version
 
 ### 1. Goal
 
@@ -90,7 +90,7 @@ LinkedIn: [www.linkedin.com/in/sebastianodanielecondorelli](https://www.linkedin
 
 --
 
-## 🇮🇹 Versione italiana
+##  Versione italiana
 
 ### 1. Obiettivo
 
